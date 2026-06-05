@@ -1,4 +1,8 @@
 # TikTok Register
+## New version
 
-## Skype - live:.cid.8e129461a4e880f7
-## Telegram @tiktokpeppa - https://t.me/tiktokpeppa
+
+#tiktok api
+
+### Latest version available for testing
+## Telegram @dacent87 - https://t.me/dacent87
